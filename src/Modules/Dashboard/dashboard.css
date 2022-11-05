@@ -1,0 +1,15 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 92vh;
+}
+
+.dashboard h3{
+    margin-bottom: 50px;
+}
+
+form p {
+    color: red;
+}

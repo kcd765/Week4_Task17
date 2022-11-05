@@ -1,0 +1,20 @@
+.contact {
+    text-align: center;
+}
+
+.contact h3{
+    padding: 20px;
+}
+
+.contact-row {
+    display: flex;
+}
+
+.contact-column {
+    flex: 33.33%;
+    padding: 30px;
+}
+
+.css-pwngrv-MuiPaper-root-MuiCard-root {
+    padding: 20px;
+}
